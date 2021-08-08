@@ -22,5 +22,5 @@ Simple notepad application with rich features created using QT5.
 
 # Issues/To-Do
 1. Subcript and superscript stops by clicking normal.
-2. No warning if application closes.<br>
-3.Searching features not available.
+2. No warning if application closes.
+3. Searching features not available.
