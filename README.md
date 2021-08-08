@@ -3,7 +3,7 @@ Simple notepad application with rich features created using QT5.
 
 
 # Features
-1.Simple and lightweight and shortcut features
+1. Simple and lightweight and shortcut features
 2. Bold/Unbold -> Ctrl+B
 3. Subscript -> Ctrl+U
 4. Superscript -> Ctrl+D
